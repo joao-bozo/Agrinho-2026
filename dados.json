@@ -1,0 +1,210 @@
+{
+  "site": {
+    "titulo": "Segurança Alimentar e Produção Sustentável - Agrinho 2026",
+    "descricao": "Um site dedicado à promoção de segurança alimentar e práticas sustentáveis de produção agrícola",
+    "ano": 2026
+  },
+  "secoes": {
+    "seguranca_alimentar": {
+      "titulo": "Segurança Alimentar",
+      "descricao": "Garantindo alimentos seguros através de práticas rigorosas",
+      "topicos": [
+        {
+          "id": 1,
+          "titulo": "Rastreabilidade",
+          "descricao": "Rastrear produtos desde a origem até o consumidor",
+          "beneficios": [
+            "Identificação rápida de problemas",
+            "Retirada eficiente de produtos",
+            "Confiança do consumidor"
+          ]
+        },
+        {
+          "id": 2,
+          "titulo": "Qualidade do Solo",
+          "descricao": "Manter e melhorar a saúde do solo",
+          "indicadores": [
+            "Matéria orgânica",
+            "pH do solo",
+            "Micronutrientes",
+            "Ausência de contaminantes"
+          ]
+        },
+        {
+          "id": 3,
+          "titulo": "Água Limpa",
+          "descricao": "Gestão responsável de recursos hídricos",
+          "parametros": [
+            "Teste de potabilidade",
+            "Ausência de pesticidas",
+            "pH adequado",
+            "Condutividade"
+          ]
+        },
+        {
+          "id": 4,
+          "titulo": "Certificações",
+          "descricao": "Conformidade com normas internacionais",
+          "certificacoes": [
+            "FSSC 22000",
+            "BRC Global Standard",
+            "SQF",
+            "ISO 22000"
+          ]
+        }
+      ]
+    },
+    "sustentabilidade": {
+      "titulo": "Produção Sustentável",
+      "descricao": "Práticas que preservam o meio ambiente",
+      "pilares": [
+        {
+          "id": 1,
+          "titulo": "Redução de Químicos",
+          "impacto": "Menor poluição ambiental",
+          "metodos": [
+            "Manejo integrado de pragas",
+            "Controle biológico",
+            "Rotação de culturas"
+          ]
+        },
+        {
+          "id": 2,
+          "titulo": "Biodiversidade",
+          "impacto": "Ecossistemas mais resilientes",
+          "acoes": [
+            "Preservação de habitats naturais",
+            "Polinizadores",
+            "Faunas benéficas"
+          ]
+        },
+        {
+          "id": 3,
+          "titulo": "Energia Renovável",
+          "impacto": "Redução de carbono",
+          "fontes": [
+            "Energia solar",
+            "Energia eólica",
+            "Biomassa"
+          ]
+        },
+        {
+          "id": 4,
+          "titulo": "Economia Circular",
+          "impacto": "Zero resíduos",
+          "praticas": [
+            "Compostagem",
+            "Reciclagem",
+            "Reutilização de subprodutos"
+          ]
+        }
+      ]
+    },
+    "praticas": {
+      "titulo": "Práticas Recomendadas",
+      "descricao": "6 pilares essenciais para sucesso",
+      "praticas": [
+        {
+          "numero": 1,
+          "titulo": "Planejamento Agrícola",
+          "descricao": "Planejar considerando estações e rotação",
+          "passos": [
+            "Análise de calendário agrícola",
+            "Rotação de culturas",
+            "Preparação adequada do terreno"
+          ]
+        },
+        {
+          "numero": 2,
+          "titulo": "Manejo de Solo",
+          "descricao": "Técnicas de conservação e melhoria",
+          "tecnicas": [
+            "Plantio direto",
+            "Curvas de nível",
+            "Adubação verde",
+            "Cobertura vegetal"
+          ]
+        },
+        {
+          "numero": 3,
+          "titulo": "Controle Integrado",
+          "descricao": "Combinar métodos de controle",
+          "metodos": [
+            "Método biológico",
+            "Método mecânico",
+            "Método químico (quando necessário)"
+          ]
+        },
+        {
+          "numero": 4,
+          "titulo": "Monitoramento",
+          "descricao": "Vigilância contínua da produção",
+          "aspectos": [
+            "Monitoramento de pragas",
+            "Monitoramento de doenças",
+            "Testes de qualidade"
+          ]
+        },
+        {
+          "numero": 5,
+          "titulo": "Treinamento",
+          "descricao": "Capacitação da equipe",
+          "topicos": [
+            "Normas de segurança",
+            "Técnicas sustentáveis",
+            "Manuseio de alimentos"
+          ]
+        },
+        {
+          "numero": 6,
+          "titulo": "Documentação",
+          "descricao": "Registros de todas as operações",
+          "registros": [
+            "Aplicações de insumos",
+            "Colheitas",
+            "Análises de qualidade",
+            "Incidentes"
+          ]
+        }
+      ]
+    }
+  },
+  "faq": [
+    {
+      "id": 1,
+      "pergunta": "O que é segurança alimentar?",
+      "resposta": "Segurança alimentar garante que os alimentos sejam seguros para consumo, livres de contaminantes, pesticidas prejudiciais e patógenos."
+    },
+    {
+      "id": 2,
+      "pergunta": "Como posso adotar práticas sustentáveis?",
+      "resposta": "Comece com pequenas mudanças: rotação de culturas, redução de químicos, uso eficiente de água e energia renovável."
+    },
+    {
+      "id": 3,
+      "pergunta": "Qual é o impacto econômico?",
+      "resposta": "Produção sustentável reduz custos a longo prazo com menor necessidade de insumos químicos e maior rentabilidade."
+    },
+    {
+      "id": 4,
+      "pergunta": "Como obter certificações?",
+      "resposta": "Contacte organismos certificadores credenciados para auditoria e orientação sobre conformidade com normas internacionais."
+    }
+  ],
+  "estatisticas": {
+    "pessoas_alimentadas": "10M+",
+    "hectares_sustentaveis": "500K",
+    "seguranca_garantida": "98%",
+    "paises_alcancados": "30+"
+  },
+  "contato": {
+    "email": "contato@agrinho2026.com",
+    "telefone": "+55 (XX) 9XXXX-XXXX",
+    "endereco": "Rua da Agricultura, 2026 - São Paulo, Brasil",
+    "redes_sociais": {
+      "facebook": "https://facebook.com/agrinho2026",
+      "instagram": "https://instagram.com/agrinho2026",
+      "linkedin": "https://linkedin.com/company/agrinho2026"
+    }
+  }
+}
