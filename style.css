@@ -425,6 +425,24 @@ body {
     color: #95a5a6;
 }
 
+.copyright-items {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.5rem;
+    align-items: center;
+}
+
+.copyright-items li {
+    display: block;
+    padding: 0;
+}
+
+.copyright-items li:not(:last-child)::after {
+    content: '';
+}
+
 /* Responsivo */
 @media (max-width: 768px) {
     .nav-menu {
